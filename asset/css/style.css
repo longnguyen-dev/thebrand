@@ -183,9 +183,15 @@ html {
 
 #slider {
     position: relative;
+    /* margin-top: 46px;
+    padding-top: 50%; */
+    /* background: url(asset/img/slider/slider1.jpg) top center / cover no-repeat; */
+}
+
+#slider .slider-image img {
+    width: 100%;
     margin-top: 46px;
-    padding-top: 50%;
-    background: url(asset/img/slider/slider1.jpg) top center / cover no-repeat;
+
 }
 
 #slider .slider-content {
