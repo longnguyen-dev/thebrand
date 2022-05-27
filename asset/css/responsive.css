@@ -74,6 +74,10 @@
         display: block !important;
     }
 
+    .slider-content {
+        display: none;
+    }
+
     #content .member-item {
         width: 100%;
     }
