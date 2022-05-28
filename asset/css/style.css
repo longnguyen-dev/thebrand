@@ -184,13 +184,13 @@ html {
 #slider {
     position: relative;
     margin-top: 46px;
-    padding-top: 50%;
-    background: url(/asset/img/place/slide.jpg) top center / cover no-repeat;
 }
 
-#slider .slider-img {
-    
+
+.slider-img img {
+    width: 100%;
 }
+
 
 #slider .slider-content {
     position: absolute;     
