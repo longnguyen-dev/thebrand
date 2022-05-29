@@ -465,7 +465,7 @@ input.modal-iput {
 }
 
 .contact-form .form-control {
-    font-size: 15px;
+    font-size: 17px;
     border: 1px solid #ddd;
     padding: 10px;
     width: 100%;
@@ -482,7 +482,7 @@ input.modal-iput {
     color: #fff;
     background-color: #000;
     float: right;
-    font-size: 15px;
+    font-size: 17px;
     border: none;
     appearance: none;
 }
